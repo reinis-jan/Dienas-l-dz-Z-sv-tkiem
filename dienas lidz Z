@@ -20,6 +20,6 @@ class Program
         TimeSpan daysUntilChristmas = nextChristmas - today;
 
         // Output the result
-        Console.WriteLine($"Palikušas  {daysUntilChristmas.Days} dienas līdz Ziemassvētkiem.");
+        Console.WriteLine($"There are {daysUntilChristmas.Days} days left until Christmas.");
     }
 }
