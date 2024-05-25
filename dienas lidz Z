@@ -4,22 +4,22 @@ class Program
 {
     static void Main()
     {
-        // Get today's date
+        // Šodienas datums
         DateTime today = DateTime.Today;
 
-        // Calculate the date of the next Christmas
+        // Aprēķins nākamajiem ziemīšiem
         DateTime nextChristmas = new DateTime(today.Year, 12, 25);
 
-        // If today is after December 25th of this year, set the next Christmas to next year
+        // Ja šodiena ir vēlāks datums par Ziemassvētkiem, tad pieskaita lai ir pareizi.
         if (today > nextChristmas)
         {
             nextChristmas = new DateTime(today.Year + 1, 12, 25);
         }
 
-        // Calculate the number of days left until the next Christmas
+        // Aprēķins cik dienas vajag līdz Z-svētkiem
         TimeSpan daysUntilChristmas = nextChristmas - today;
 
         // Output the result
-        Console.WriteLine($"There are {daysUntilChristmas.Days} days left until Christmas.");
+        Console.WriteLine($"Palikušas {daysUntilChristmas.Days}dienas līdz Ziemassvētkiem.");
     }
 }
