@@ -1,0 +1,15 @@
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\bin\Debug\net8.0\ChristmasCountdown.exe
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\bin\Debug\net8.0\ChristmasCountdown.deps.json
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\bin\Debug\net8.0\ChristmasCountdown.runtimeconfig.json
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\bin\Debug\net8.0\ChristmasCountdown.dll
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\bin\Debug\net8.0\ChristmasCountdown.pdb
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ChristmasCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ChristmasCountdown.AssemblyInfoInputs.cache
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ChristmasCountdown.AssemblyInfo.cs
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ChristmasCountdown.csproj.CoreCompileInputs.cache
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ChristmasCountdown.sourcelink.json
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ChristmasCountdown.dll
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\refint\ChristmasCountdown.dll
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ChristmasCountdown.pdb
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ChristmasCountdown.genruntimeconfig.cache
+C:\Users\Reinis\Documents\GitHub\Dienas-l-dz-Z-sv-tkiem\ChristmasCountdown\obj\Debug\net8.0\ref\ChristmasCountdown.dll
