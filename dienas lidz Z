@@ -1,0 +1,25 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Get today's date
+        DateTime today = DateTime.Today;
+
+        // Calculate the date of the next Christmas
+        DateTime nextChristmas = new DateTime(today.Year, 12, 25);
+
+        // If today is after December 25th of this year, set the next Christmas to next year
+        if (today > nextChristmas)
+        {
+            nextChristmas = new DateTime(today.Year + 1, 12, 25);
+        }
+
+        // Calculate the number of days left until the next Christmas
+        TimeSpan daysUntilChristmas = nextChristmas - today;
+
+        // Output the result
+        Console.WriteLine($"There are {daysUntilChristmas.Days} days left until Christmas.");
+    }
+}
